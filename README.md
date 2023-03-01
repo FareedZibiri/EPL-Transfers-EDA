@@ -1,19 +1,19 @@
 
-<h4>EPL Transfers (1992 - 2022) EDA</h4>
-*Exploratory Data analysis on football transfers in the English Premier League from 1992 to 2022*
+<h3>EPL Transfers (1992 - 2022) EDA</h3>
+<em>Exploratory Data analysis on football transfers in the English Premier League from 1992 to 2022</em>
  
-####Introduction
+<h4>Introduction</h4>
 
 
 In this project, I perform exploratory data analysis on a dataset containing player transfers of the English Premier League from 1992 to 2022. The dataset was pulled from github at https://github.com/ewenme/transfers and can also be found on Kaggle.
 
-####Objectives
+<h4>Objectives</h4>
 
 1. To uncover hidden patterns.
 2. To get insights into the transfer market in English football and how it has evolved over time.
 3. To ascertain the kind of players that are sought after by clubs.
 
-####Findings and Insights
+<h4>Findings and Insights</h4>
 
 1. Of the clubs most involved in the most transfers in terms of quantity of buys and sales, only West Ham aren't part of the traditional PL's 'Big Six'. They rank fourth in terms of transfer involvements. They also bought and sold more players than Liverpool, Man Utd and Arsenal.
 
